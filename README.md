@@ -71,5 +71,3 @@ AlgoUniversity is focused on providing **affordable, high-quality courses** in:
 - Better positioning against competitors like **Scaler** & **Masai**.  
 
 ---
-
-## 📂 Repository Structure
